@@ -1,5 +1,6 @@
 # Portfolio Analysis
-## Determining the best portfolios using metrics to measure returns, volatility, and risk.
+
+## Determining the best investment portfolios using metrics to measure returns, volatility, and risk on the S&P 500, sample "whale" investor portfolio, two algorithmic trading portfolios, and a custom portfolio assembled using the google finance function.
 
 ### 1. Read in and Wrangle Returns Data
 
